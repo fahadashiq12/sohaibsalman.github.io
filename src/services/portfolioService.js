@@ -3,7 +3,7 @@ import DesignPhotography from "../static/images/portfolio/design/photography.png
 
 import DesktopTMS from "../static/images/portfolio/desktop/tms.png";
 import DesktopChat from "../static/images/portfolio/desktop/chat-app.png";
-import DesktopCalculator from "../static/images/portfolio/desktop/calculator.png";
+import DesktopCalculator from "../static/images/portfolio/desktop/calculator.PNG";
 import DesktopTraveling from "../static/images/portfolio/desktop/traveling.png";
 
 import WebTMS from "../static/images/portfolio/web/tms.png";
